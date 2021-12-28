@@ -7,6 +7,9 @@ contributor:
     deathdate: 1966
     gutenberg_agent_id: '8472'
     url: http://www.gutenberg.org/2009/agents/8472
+covers:
+- cover_type: archival
+  image_path: 66975-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Seawell, Molly Elliot
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Molly_Elliot_Seawell
     - http://www.gutenberg.org/ebooks/author/43099
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66975#The-Secret-of-Toni
 gutenberg_issued: '2021-12-20'
 identifiers:
   gutenberg: '66975'
